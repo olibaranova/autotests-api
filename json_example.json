@@ -1,0 +1,6 @@
+{
+  "name": "Ivan",
+  "age": 23,
+  "is_student": false,
+  "new": [{"name": "Eva", "age": 21}]
+}
